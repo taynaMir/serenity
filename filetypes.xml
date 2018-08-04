@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="java" type="CLASS" />
+      <mapping pattern="WhenAuthentication" type="CLASS" />
       <mapping pattern="cell_lifecycle/story" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
